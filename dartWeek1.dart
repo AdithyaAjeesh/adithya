@@ -66,4 +66,27 @@ void main() {
 //   List<String> passwordList =  List.generate(length, (index) => charset[random.nextInt(charset.length)]);
 //   return passwordList.join();
 
+// bank intrest calculator
+  // int inputAmount;
+  // double intrest, year;
+
+  // stdout.write("enter Inital Payment amount");
+  // inputAmount = int.parse(stdin.readLineSync()!);
+
+  // stdout.write("enter intrest rate");
+  // intrest = double.parse(stdin.readLineSync()!);
+
+  // stdout.write("enter number of years");
+  // year = double.parse(stdin.readLineSync()!);
+
+  // print('final amount is');
+  // print((inputAmount * intrest * year) / 100);
+
+  //Sum of two numbers in dart
+  // print('enter first number: ');
+  // var input1 = int.parse(stdin.readLineSync()!);
+  // print("enter the second number: ");
+  // var input2 = int.parse(stdin.readLineSync()!);
+  // var sum = input1 + input2;
+  // print('sum of two numbers = $sum');
 }
